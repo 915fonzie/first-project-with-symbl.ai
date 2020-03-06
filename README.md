@@ -1,6 +1,6 @@
 ### In order to use this, you will have to create an account on Symbl.ai and get an appId and appSecret key.
 
-
+After getting those keys, you can either replace them with the variables in the Home.js Component, or create another JS Component like I did and add it to your gitignore file.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
