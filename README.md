@@ -1,3 +1,7 @@
+### In order to use this, you will have to create an account on Symbl.ai and get an appId and appSecret key.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
